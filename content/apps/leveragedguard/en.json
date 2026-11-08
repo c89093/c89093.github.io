@@ -1,0 +1,83 @@
+{
+  "status": "In internal testing",
+  "platform": "iPhone · iOS 17 or later",
+  "tag": "Portfolio records & allocation checks",
+  "name": "正二紀律",
+  "appDesc": "Track your leveraged ETF holdings and cash. Use end-of-day prices to check allocation against rules you set yourself.",
+  "learn": "Explore the app",
+  "appHero": [
+    "Record your holdings.",
+    "Check your own rules."
+  ],
+  "appIntro": "See holdings, cash, and allocation thresholds together. This app helps you record and calculate—it does not decide when you should trade.",
+  "release": "Not publicly available on the App Store yet. There is no public download link.",
+  "featuresTitle": "The essentials, together.",
+  "features": [
+    [
+      "Holdings & allocation",
+      "Record shares in 00631L, 00675L, and 00685L, average costs, and shared cash. Check the allocation thresholds you set."
+    ],
+    [
+      "Closing prices & history",
+      "Estimate value and profit or loss using closing prices. Review observed price ranges and your own portfolio update history."
+    ],
+    [
+      "Sync & everyday reminders",
+      "Sync holdings, strategy, and history through iCloud. Use monthly reminders, Home Screen widgets, and number masking."
+    ]
+  ],
+  "policyIntro": "This policy explains how 正二紀律, operated by Jam Chen, handles data for personal records, allocation calculations, sync, market quotes, service reliability, and support. Other apps have separate policies.",
+  "policy": [
+    [
+      "On-device data and choices",
+      "Holdings, share counts, average costs, cash, allocation strategy, and update history you enter are stored on your device for records and calculations. Without the necessary financial data, related recording and calculations cannot be fully used. Appearance, number-masking, and reminder preferences stay on each device. Widgets read a derived snapshot shared locally through an App Group."
+    ],
+    [
+      "iCloud sync",
+      "Sync is enabled by default. When account and data-ownership conditions are met, holdings, strategy, and the complete update history sync through an Apple CloudKit private database. Without iCloud, data cannot sync across devices. Turning sync off does not delete existing local or iCloud data and cannot retract work already submitted to the operating system."
+    ],
+    [
+      "Quotes and network logs",
+      "The app and widget use GET to request a fixed set of public quotes from the Cloudflare quote service: 00631L, 00675L, and 00685L. This application request does not include holdings, share counts, costs, cash, a custom user ID, or an iCloud account. Network services still process technical information such as IP addresses and request times to deliver the service and support reliability and security. Workers request and error logging is enabled in production. Cloudflare Workers Logs has a platform maximum retention of 7 days; other platform security records follow the relevant service policies. This does not mean all network data is deleted within 7 days."
+    ],
+    [
+      "Reminders, masking, and packages",
+      "Monthly reminders use local system notifications. Number masking changes the display; it does not delete or encrypt data. The app has no developer-operated account. No advertising or third-party behavioral analytics SDK was found in the reviewed app source and packages. Apple and other services process data under their own policies."
+    ],
+    [
+      "Retention and deletion limits",
+      "Local data and synced iCloud data are kept for records and sync; no fixed automatic deletion period can be guaranteed. Removing a current holding or clearing its average cost does not remove earlier history snapshots. The app currently has no button to completely clear local history and all iCloud copies. Uninstalling the app or turning sync off does not guarantee deletion of every device, cloud, or backup copy."
+    ],
+    [
+      "Support and email",
+      "When you email Jam Chen at c89093@gmail.com, Gmail/Google processes your sender address, message, and attachments; Jam Chen handles support records to respond, troubleshoot, and follow up as needed. Provide only what is needed; do not send passwords or complete investment records. Insufficient information may prevent troubleshooting. Support data is kept while resolving the issue and for necessary follow-up; when the purpose ends or a lawful deletion request is received, it is handled according to applicable law."
+    ],
+    [
+      "Locations and service providers",
+      "The operation is based in Taiwan. For the relevant features, Apple handles iCloud sync, Cloudflare provides the quote service, GitHub hosts the website, and Google provides email. These services may process data in other regions; data is not guaranteed to stay in Taiwan."
+    ],
+    [
+      "Rights, contact, and updates",
+      "Subject to applicable law, contact Jam Chen at c89093@gmail.com to request inquiry, access, a copy, supplementation, correction, cessation of collection, processing or use, or deletion of personal data. We may need to confirm the scope and necessary identity information, but will not ask for passwords. For Apple personal data we cannot directly access, we will explain the limitation and direct you to Apple’s platform or support; this does not affect your legal rights. This page shows the policy update date; material changes will be explained on the website."
+    ]
+  ],
+  "termsIntro": "Licensing and product risks are explained separately. The Apple Standard EULA governs licensing; this page describes the app’s purpose and limitations without rewriting Apple’s terms.",
+  "termsSections": [
+    [
+      "License",
+      "The App Store version is subject to the Apple Standard EULA unless a custom EULA is provided. Read Apple’s official text using the link below. Translating this website does not translate or amend Apple’s license agreement."
+    ],
+    [
+      "Not a trading or advisory service",
+      "The app provides personal portfolio records, allocation checks, and estimates. It does not trade on your behalf, guarantee returns, or determine whether an investment is suitable for you. Check inputs and prices yourself and seek qualified advice when needed."
+    ],
+    [
+      "Leveraged ETFs & market-data limits",
+      "A leveraged ETF’s daily return objective does not mean its long-term return will be a fixed multiple of its index. Closing-price data can be delayed, missing, or revised. Price ranges use accumulated observations, do not guarantee every trading day is covered, and are not comprehensively split-adjusted."
+    ],
+    [
+      "Data & service availability",
+      "The app does not fully control the availability of iCloud, market-data sources, or platform services. Enabling sync does not mean every device has finished syncing. These statements do not exclude rights that cannot lawfully be excluded."
+    ]
+  ]
+}

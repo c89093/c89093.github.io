@@ -1,0 +1,5 @@
+dist/
+.verification/
+__pycache__/
+*.pyc
+.DS_Store

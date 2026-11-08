@@ -1,0 +1,18 @@
+{
+  "origin": "https://c89093.github.io",
+  "display_name": "Jam Chen",
+  "operator_name": "Jam Chen",
+  "contact_email": "c89093@gmail.com",
+  "effective_date": "2026-11-08",
+  "policies_approved": true,
+  "github_url": "https://github.com/c89093",
+  "apps": [
+    {
+      "slug": "leveragedguard",
+      "icon": "leveragedguard.png",
+      "status": "testing",
+      "store_url": null,
+      "policies_approved": true
+    }
+  ]
+}

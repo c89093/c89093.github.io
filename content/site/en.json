@@ -1,0 +1,56 @@
+{
+  "preview": "Website design preview · Not published",
+  "draft": "Policy review copy · Not yet published or effective",
+  "role": "Independent developer · Taiwan",
+  "apps": "My apps",
+  "support": "Support & contact",
+  "back": "All apps",
+  "hero": [
+    "Everyday problems.",
+    "Thoughtfully small apps."
+  ],
+  "intro": "I’m Jam Chen. Find the apps I build, what they do, how to use them, and how they handle your data.",
+  "browse": "Explore my apps",
+  "collection": "It starts with a real need.",
+  "collectionDesc": "One app. A clear purpose.",
+  "privacy": "Privacy policy",
+  "terms": "Use & risk information",
+  "sitePrivacy": "Website privacy",
+  "eula": "Apple Standard EULA",
+  "supportText": "For product questions, bug reports, or privacy requests, contact Jam Chen at c89093@gmail.com. Provide only the information needed to address the issue.",
+  "contactPending": "Public contact details pending",
+  "supportHint": "Include the app version, OS version, and steps to reproduce an issue. Do not send passwords or complete investment records.",
+  "webIntro": "This notice covers the developer website operated by Jam Chen. See the separate privacy policy for 正二紀律 for its data practices.",
+  "webSections": [
+    [
+      "Static hosting",
+      "This website is hosted on GitHub Pages. GitHub says it logs and stores visitors’ IP addresses for security, even when they are not signed in. Other platform security records are handled under the relevant services’ policies."
+    ],
+    [
+      "Website features",
+      "The website has no registration, payment, or feedback form and uses no advertising, analytics, cookies, third-party fonts, or extra CDN resources. Language links do not infer your region from your IP address or save your selection."
+    ],
+    [
+      "Email and retention",
+      "When you email c89093@gmail.com, Gmail/Google processes your sender address, message and attachments, and Jam Chen handles support records to respond and resolve the issue. Provide only what is needed; do not send passwords or complete investment records. Insufficient information may prevent troubleshooting. Support data is kept while resolving the issue and for necessary follow-up; when the purpose ends or a lawful deletion request is received, it is handled according to applicable law. No fixed automatic deletion period is asserted."
+    ],
+    [
+      "Location and external services",
+      "The operation is based in Taiwan. Services including GitHub, Google, Apple, and Cloudflare may process data in other regions; data is not guaranteed to stay in Taiwan. When you follow external links, those services process data under their own policies."
+    ],
+    [
+      "Rights and updates",
+      "Subject to applicable law, contact Jam Chen at c89093@gmail.com to request inquiry, access, a copy, supplementation, correction, cessation of collection, processing or use, or deletion of personal data. We may need to confirm the scope and necessary identity information, but will not ask for passwords. For data we cannot directly access, we will explain and direct you to the relevant platform. This page shows the policy update date; material changes will be explained on the website."
+    ]
+  ],
+  "providerPolicy": "Read GitHub’s Privacy Statement",
+  "contents": "On this page",
+  "updated": "Last updated",
+  "publisher": "Publisher",
+  "emailLabel": "Contact the developer",
+  "download": "Download on the App Store",
+  "notFound": "Page not found",
+  "notFoundText": "This address may have changed. Return home to find apps and support.",
+  "skip": "Skip to main content",
+  "released": "Available now"
+}
